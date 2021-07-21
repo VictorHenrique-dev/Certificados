@@ -24,6 +24,8 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 | ![][sJDEV] JDev Treinamentos     | ![][i09] **Configuração de Ambiente Java**   [⮚][9]  |    7 Horas        |
 | ![][sBRA] Fundação Bradesco      | ![][i10] **HTML - Básico**   [⮚][10]  |    11 Horas        |
 | ![][sBRA] Fundação Bradesco      | ![][i11] **HTML - Básico**   [⮚][11]  |    6 Horas        |
+||||
+| | Total de Carga Horária  | 318 Horas |
 
 <!--
 
@@ -77,7 +79,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 <!-- Selo de organizações -->
 [sUD]: i/udemy.png "Udemy"
 [sJDEV]: i/jdev.png "JDev Treinamentos"
-[sBRA]: i/bradesco.png "Bradesco"
+[sBRA]: i/bradesco.png "Fundação Bradesco"
 
 
 <!-- Informações sobre os módulos dos cursos --- Regex: (Módulos:)?\n?\d+ - (.*)\n? -->
