@@ -13,17 +13,17 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 
 | Órgão emissor      | Curso                                                                           | Carga horária      |
 | ------------------ | --------------------------------------------------------------------------------| ------------------ |
-| ![][sUD] Udemy     | ![][i01] **Java COMPLETO Programação Orientada a Objetos +Projetos**   [⮚][1]  |    50 Horas        |
-| ![][sUD] Udemy     | ![][i02] **Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos**   [⮚][2]  |    109 Horas        |
-| ![][sJDEV] JDev Treinamentos   | ![][i03] **Lógica de Programação**   [⮚][3]  |    10 Horas        |
-| ![][sJDEV] JDev Treinamentos   | ![][i04] **Leitura e escrita TXT e Excel com Apache POI**   [⮚][4]  |    3 Horas        |
-| ![][sJDEV] JDev Treinamentos   | ![][i05] **Fundamentos e conceitos de sistemas**   [⮚][5]  |    10 Horas        |
-| ![][sJDEV] JDev Treinamentos   | ![][i06] **GitHub Versionamento de Código**   [⮚][6]  |    5 Horas        |
-| ![][sJDEV] JDev Treinamentos   | ![][i07] **Datas, tempo e periodo com API DateTime**   [⮚][7]  |    3 Horas        |
-| ![][sJDEV] JDev Treinamentos   | ![][i08] **Treinamento FrontEnd**   [⮚][8]  |    5 Horas        |
-| ![][sJDEV] JDev Treinamentos   | ![][i09] **Configuração de Ambiente Java**   [⮚][9]  |    7 Horas        |
-| ![][sBRA] Fundação Bradesco   | ![][i10] **HTML - Básico**   [⮚][10]  |    11 Horas        |
-| ![][sBRA] Fundação Bradesco   | ![][i11] **HTML - Básico**   [⮚][11]  |    6 Horas        |
+| ![][sUD] Udemy                   | ![][i01] **Java COMPLETO Programação Orientada a Objetos +Projetos**   [⮚][1]  |    50 Horas        |
+| ![][sUD] Udemy                   | ![][i02] **Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos**   [⮚][2]  |    109 Horas        |
+| ![][sJDEV] JDev Treinamentos     | ![][i03] **Lógica de Programação**   [⮚][3]  |    10 Horas        |
+| ![][sJDEV] JDev Treinamentos     | ![][i04] **Leitura e escrita TXT e Excel com Apache POI**   [⮚][4]  |    3 Horas        |
+| ![][sJDEV] JDev Treinamentos     | ![][i05] **Fundamentos e conceitos de sistemas**   [⮚][5]  |    10 Horas        |
+| ![][sJDEV] JDev Treinamentos     | ![][i06] **GitHub Versionamento de Código**   [⮚][6]  |    5 Horas        |
+| ![][sJDEV] JDev Treinamentos     | ![][i07] **Datas, tempo e periodo com API DateTime**   [⮚][7]  |    3 Horas        |
+| ![][sJDEV] JDev Treinamentos     | ![][i08] **Treinamento FrontEnd**   [⮚][8]  |    5 Horas        |
+| ![][sJDEV] JDev Treinamentos     | ![][i09] **Configuração de Ambiente Java**   [⮚][9]  |    7 Horas        |
+| ![][sBRA] Fundação Bradesco      | ![][i10] **HTML - Básico**   [⮚][10]  |    11 Horas        |
+| ![][sBRA] Fundação Bradesco      | ![][i11] **HTML - Básico**   [⮚][11]  |    6 Horas        |
 
 <!--
 
