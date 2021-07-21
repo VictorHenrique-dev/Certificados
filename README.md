@@ -6,15 +6,6 @@
 Todas minhas certificações de cursos (+EaDs e Eventos);  
 Clique nas setas (**⮚**) para conferir o certificado/comprovante;  
 
-<!--
-## 🏛 Acadêmico / Científico
-| Órgão emissor          | Certificação                                                      | Data                       |
-| ---------------------- | ----------------------------------------------------------------- | -------------------------- |
-| ![][sUN] UNIVAP        | **Aluno Destaque do Curso de Informática**              [⮚][37]   | 2017-2019 (EM)             |
-| ![][sUN] UNIVAP        | **Conclusão do Ensino Médio**                           [⮚][36]   | 16/12/2019                 |
-| ![][sIJ] INICJr        | **Certificado de Participação do Congresso**            [⮚][29]   | 24/10/2019 <br> 25/10/2019 |
--->
-
 ## 🎓 Cursos 
 • Coloque o mouse em cima do ícone ![][iINFO] para obter informações sobre os módulos estudados.
 
@@ -22,7 +13,7 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 
 | Órgão emissor      | Curso                                                                           | Carga horária      |
 | ------------------ | --------------------------------------------------------------------------------| ------------------ |
-| ![][sUD] Udemy     | ![][i06] **Java COMPLETO Programação Orientada a Objetos +Projetos**   [⮚][6]  |    34 Horas        |
+| ![][sUD] Udemy     | ![][i06] **Java COMPLETO Programação Orientada a Objetos +Projetos**   [⮚][1]  |    34 Horas        |
 <!--
 | ![][sTW] TreinaWeb | ![][i07] **Lógica de Orientação a Objetos**              [⮚][7]  | 24 Horas           |
 | ![][sTW] TreinaWeb | ![][i40] **Git e GitHub - Controle de versão**           [⮚][40] | 22 Horas           |
@@ -31,13 +22,6 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 -->
 <!--
 
-### 🤖 Eletrônica
-| Órgão emissor           | Curso                                                        | Carga horária | Avaliação Pessoal |
-| ----------------------- | ------------------------------------------------------------ | ------------- | ----------------- |
-| ![][sLU] Lúmina (UFRGS) | ![][i28] **Introdução a Arduino**                   [⮚][28]  | 20 Horas      | ![][nota10]       |
-
-
----
 ## 🥇 Participações em Competições e Maratonas
 Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas]  
 
@@ -70,19 +54,6 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
   | ![][sSB] Softblue   | **JAVA**          [⮚][4]  | 12 Horas      | ![][nota9]        |
   | ![][sSB] Softblue   | **PHP**           [⮚][5]  | 12 horas      | ![][nota10]       |
    
----
-## 🎲 Outros
-| Organização     | Nome                                                       | Descrição                                                                | Ano  |
-| --------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------| ---- |
-| ![][sNS] NASA   | **Hot Ticket**: ![][iUS] [⮚][24]                           | Apoio à primeira missão aeroespacial na superfície solar (Sonda: Probe)  | 2018 |
-| ![][sCP] CPS    | ![][i53] **MOOC: Online English** ![][iUS]     [⮚][53]   | Conteúdo programático de Inglês EAD                                      | 2020 |
-| ![][sNS] NASA   | **Bording Pass**:<br>Mars 2020 ![][iUS] [⮚][26]            | Apoio ao rover enviado para a superfície de marte em 2020                | 2019 |
-| ![][sNS] NASA   | **Bording Pass**:<br>Future Mars Mission ![][iUS] [⮚][42]  | Apoio à missão aeroespacial na superfície de marte em 2026               | 2020 |
-| ![][sUN] UNIVAP | **Grupo de Estudos**:<br>Ensino Médio [⮚][25]              | Certificado de monitoria nas matérias:<br>• Física<br>• Matemática       | 2017 |
-| ![][sUN] UNIVAP | **Grupo de Estudos**:<br>Ensino Médio [⮚][25]              | Certificado de monitoria nas matérias:<br>• Física<br>• Matemática       | 2018 |
-| ![][sUN] UNIVAP | **Grupo de Estudos**:<br>Ensino Médio [⮚][35]              | Certificado de monitoria na matéria:<br>• Química                        | 2019 |
--->
-
 
 <!-- -=- # --- REFERÊNCIAS --- # -=- -->
 <!-- Links/Certificados -->
@@ -91,16 +62,9 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [3]: !%20Academias%20e%20Oficinas/Saga%20-%20Modelagem%203D.pdf
 
 <!-- Selo de organizações -->
-[sTW]: i/treina_web19.png "TreinaWeb"
-[sSL]: i/solo_learn19.png "SoloLearn"
-[sCD]: i/code19.png "C O D E"
-[sCV]: i/cursoemvideo19.png "Curso em Vídeo"
-
+[sUD]: i/udemy.png "Udemy"
 
 
 <!-- Informações sobre os módulos dos cursos --- Regex: (Módulos:)?\n?\d+ - (.*)\n? -->
 [iINFO]: i/i.png "Os módulos aparecerão aqui."
 [i06]: i/i.png "Módulos: &#013; • Introdução &#013; • Lógica de programação: definições e conceitos &#013; • Estrutura e fases de um algoritmo &#013; • Variáveis, constantes e tipos de dados &#013; • Operadores aritméticos, relacionais e lógico &#013; • Estruturas de decisão &#013; • Estruturas de repetição ou iteração &#013; • Hora de praticar! &#013; • Portugol &#013; • Linguagem C &#013; • Estrutura básica de um software em C &#013; • Variáveis e tipos de dados &#013; • Trabalhando com entrada e saída de dados &#013; • Operadores aritméticos, relacionais e lógicos &#013; • Estruturas de decisão &#013; • Estruturas de repetição &#013; • Estrutura de dados: vetores ou arrays &#013; • Hora de praticar! &#013; • Hora de praticar! &#013; • Conclusão"
-[i15]: i/i.png "Módulos: &#013; • Introdução &#013; • Relembrando o que é a orientação a objetos &#013; • Classes e objetos &#013; • Encapsulamento &#013; • Herança &#013; • Interfaces &#013; • Conclusão"
-[i11]: i/i.png "Módulos: &#013; • Conhecendo o JavaScript &#013; • Tipos de Dados &#013; • Operadores &#013; • Declaração de Variáveis &#013; • Tomando Decisões &#013; • Tarefas Repetitivas - Laços de Repetição &#013; • Reutilizando Códigos - Funções &#013; • Estrutura de Dados - Objetos e Arrays &#013; • Trabalhando com Números e o Objeto Math &#013; • Trabalhando com Strings - Formatando Textos &#013; • Trabalhando com Datas - O Objeto Date &#013; • Trabalhando com Arrays &#013; • Trabalhando com Objetos &#013; • Conversão de Tipos &#013; • Manipulando HTML com JavaScript &#013; • Eventos &#013; • Projeto final &#013; • Conclusão"
-[i12]: i/i.png "Módulos: &#013; • Introdução &#013; • Orientação a Objetos &#013; • Classes &#013; • Coleções &#013; • Bugs - Tratando Erros &#013; • Expressões Regulares &#013; • Avançando com Funções &#013; • Executando Códigos com Eval &#013; • Controlando o Navegador &#013; • Formulários e Campos &#013; • Requisições HTTP &#013; • Trabalhando com Bibliotecas &#013; • Conclusão"
