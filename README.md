@@ -22,10 +22,13 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 | ![][sJDEV] JDev Treinamentos     | ![][i07] **Datas, tempo e periodo com API DateTime**   [⮚][7]  |    3 Horas        |
 | ![][sJDEV] JDev Treinamentos     | ![][i08] **Treinamento FrontEnd**   [⮚][8]  |    5 Horas        |
 | ![][sJDEV] JDev Treinamentos     | ![][i09] **Configuração de Ambiente Java**   [⮚][9]  |    7 Horas        |
+| ![][sJDEV] JDev Treinamentos     | ![][i12] **Hospedagem de aplicações Java**   [⮚][12]  |    30 Horas        |
+| ![][sJDEV] JDev Treinamentos     | ![][i13] **JSP + Servlets + JDBC + Ajax e JSON**   [⮚][13]  |    15 Horas        |
+| ![][sJDEV] JDev Treinamentos     | ![][i14] **Spring Boot MVC com Thymeleaf e PostgreSQL**   [⮚][14]  |    17 Horas        |
 | ![][sBRA] Fundação Bradesco      | ![][i10] **HTML - Básico**   [⮚][10]  |    11 Horas        |
-| ![][sBRA] Fundação Bradesco      | ![][i11] **HTML - Básico**   [⮚][11]  |    6 Horas        |
+| ![][sBRA] Fundação Bradesco      | ![][i11] **HTML - Avançado**   [⮚][11]  |    6 Horas        |
 ||||
-| | Total de Carga Horária  | 318 Horas |
+| | Total de Carga Horária  | 371 Horas |
 
 <!--
 
@@ -75,6 +78,9 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [9]: programacao/Configuração%20de%20ambiente%20em%20Java.pdf
 [10]: programacao/HTML%20básico.pdf
 [11]: programacao/HTML%20Avançado.pdf
+[12]: programacao/Hospedagem%20de%20aplicações%20Java.pdf
+[13]: programacao/JSP%20%2B%20Servlets%20%2B%20JDBC%20%2B%20Ajax%20e%20JSON.pdf
+[14]: programacao/Spring%20Boot%20MVC%20com%20Thymeleaf%20e%20PostgreSQL.pdf
 
 <!-- Selo de organizações -->
 [sUD]: i/udemy.png "Udemy"
@@ -95,3 +101,6 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [i09]: i/i.png "Módulos: &#013; • Instalando e configurando Java compondo JRE, JDK e JVM &#013; • Apache Tomcat &#013; • IDE Eclipse &#013; • PostgreSQL &#013; • Conclusão"
 [i10]: i/i.png "Módulos: &#013; • Introdução &#013; • HTML e Web &#013; • Criando um documento HTML &#013; • Formantando um documento HTML &#013; • Criando listas &#013; • Inserindo imagens &#013; • Criando links &#013; • Combinando tags &#013; • Usando imagens mapeadas &#013; • Conclusão"
 [i11]: i/i.png "Módulos: &#013; • Criando e formatando tabelas &#013; • Criando e formatando formulários &#013; • Criando e formatando frames &#013; • Incrementando uma página web &#013; • Conclusão"
+[i12]: i/i.png "Módulos: &#013; • Contratação de hospedagem &#013; • Configuração de domínio &#013; • Controle de cpanel &#013; • Gerência de banco de dados &#013; • Implantação de projetos &#013; • Controle com subversion &#013; • Conclusão"
+[i13]: i/i.png "Módulos: &#013; • Servlets e JavaServer Pages &#013; • Banco de dados SQL &#013; • Autenticação com Filter &#013; • Apache Tomcat &#013; • Eclipse IDE &#013; • JQuery, JSON e Ajax &#013; • Relatório com iReport e Jasper &#013; • Gráficos com JQueryUI &#013; • Padrão MVC com Java &#013; • Conclusão"
+[i14]: i/i.png "Módulos: &#013; • Criação de projeto Spring Boot &#013; • Integração com JPA e PostgreSQL &#013; • Integração com Thymeleaf &#013; • Integração com Materialize &#013; • CRUD completo &#013; • Consumo de WebService &#013; • Conclusão"
