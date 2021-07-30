@@ -25,10 +25,14 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 | ![][sJDEV] JDev Treinamentos     | ![][i12] **Hospedagem de aplicações Java**   [⮚][12]  |    30 Horas        |
 | ![][sJDEV] JDev Treinamentos     | ![][i13] **JSP + Servlets + JDBC + Ajax e JSON**   [⮚][13]  |    15 Horas        |
 | ![][sJDEV] JDev Treinamentos     | ![][i14] **Spring Boot MVC com Thymeleaf e PostgreSQL**   [⮚][14]  |    17 Horas        |
+| ![][sJDEV] JDev Treinamentos     | ![][i15] **Spring Boot REST API com JavaScript e Bootstrap**   [⮚][15]  |    10 Horas        |
+| ![][sJDEV] JDev Treinamentos     | ![][i16] **API REST e RESTful - Spring Boot REST com JPA e PostgreSQL**   [⮚][16]  |    25 Horas        |
+| ![][sJDEV] JDev Treinamentos     | ![][i17] **SQL com JDBC e Java**   [⮚][17]  |    10 Horas        |
+| ![][sJDEV] JDev Treinamentos     | ![][i18] **Angular 8 com Spring Boot REST**   [⮚][18]  |    10 Horas        |
 | ![][sBRA] Fundação Bradesco      | ![][i10] **HTML - Básico**   [⮚][10]  |    11 Horas        |
 | ![][sBRA] Fundação Bradesco      | ![][i11] **HTML - Avançado**   [⮚][11]  |    6 Horas        |
 ||||
-| | Total de Carga Horária  | 371 Horas |
+| | Total de Carga Horária  | 446 Horas |
 
 <!--
 
@@ -81,6 +85,11 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [12]: programacao/Hospedagem%20de%20aplicações%20Java.pdf
 [13]: programacao/JSP%20%2B%20Servlets%20%2B%20JDBC%20%2B%20Ajax%20e%20JSON.pdf
 [14]: programacao/Spring%20Boot%20MVC%20com%20Thymeleaf%20e%20PostgreSQL.pdf
+[15]: programacao/Spring%20Boot%20REST%20API%20com%20JavaScript%20e%20Bootstrap.pdf
+[16]: programacao/API%20REST%20e%20RESTful%20-%20Spring%20Boot%20REST%20com%20JPA%20e%20PostgreSQL.pdf
+[17]: programacao/SQL%20com%20JDBC%20e%20Java.pdf
+[18]: programacao/Angular%208%20com%20Spring%20Boot%20REST.pdf
+
 
 <!-- Selo de organizações -->
 [sUD]: i/udemy.png "Udemy"
@@ -104,3 +113,7 @@ Clique [aqui ⮚][1] para ver todas as colocações e certificados. ![][medalhas
 [i12]: i/i.png "Módulos: &#013; • Contratação de hospedagem &#013; • Configuração de domínio &#013; • Controle de cpanel &#013; • Gerência de banco de dados &#013; • Implantação de projetos &#013; • Controle com subversion &#013; • Conclusão"
 [i13]: i/i.png "Módulos: &#013; • Servlets e JavaServer Pages &#013; • Banco de dados SQL &#013; • Autenticação com Filter &#013; • Apache Tomcat &#013; • Eclipse IDE &#013; • JQuery, JSON e Ajax &#013; • Relatório com iReport e Jasper &#013; • Gráficos com JQueryUI &#013; • Padrão MVC com Java &#013; • Conclusão"
 [i14]: i/i.png "Módulos: &#013; • Criação de projeto Spring Boot &#013; • Integração com JPA e PostgreSQL &#013; • Integração com Thymeleaf &#013; • Integração com Materialize &#013; • CRUD completo &#013; • Consumo de WebService &#013; • Conclusão"
+[i15]: i/i.png "Módulos: &#013; • Spring Boot REST API &#013; • Model e Tabela de banco &#013; • Repository Spring Data &#013; • End-point POST, PUT, DELETE e GET &#013; • Configuração com Maven &#013; • Geração de JAR para deploy &#013; • Ajax com JQuery pra API &#013; • Tela de pesquisa Modal &#013; • Deploy HEROKU Spring Boot API REST &#013; • Conclusão"
+[i16]: i/i.png "Módulos: &#013; • CRUD completo com banco de dados &#013; • Postman e RESTful &#013; • Geração de WAR com Maven &#013; • Implantação da API em servidor &#013; • Cross Origin e Cache &#013; • Protocolos HTTP &#013; • Conhecendo APIs &#013; • REST e RESTful &#013; • Spring Security &#013; • Autenticação JWT &#013; • Cache e Pool &#013; • Conclusão"
+[i17]: i/i.png "Módulos: &#013; • Introdução a linguagem SQL &#013; • Práticas de CRUD com JDBC &#013; • JUnit e práticas de CRUD com JDBC com SQL e Java &#013; • Conclusão"
+[i18]: i/i.png "Módulos: &#013; • Introdução ao Angular 8 &#013; • Criação de CRUD completo &#013; • Integração Spring Boot &#013; • Autenticação com JWT &#013; • Publicação de projeto &#013; • Conclusão"
